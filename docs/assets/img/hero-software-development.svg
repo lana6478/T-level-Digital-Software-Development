@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280" role="img" aria-label="Illustration of a laptop showing code brackets on screen, with a checklist beside it, representing designing, building and testing software">
+  <rect width="480" height="280" rx="10" fill="#eaf3ff"/>
+
+  <!-- laptop -->
+  <g transform="translate(120,70)">
+    <rect x="0" y="0" width="180" height="118" rx="8" fill="#0645ad"/>
+    <rect x="10" y="10" width="160" height="98" rx="3" fill="#0b1a33"/>
+    <g transform="translate(58,36)" fill="none" stroke="#4ea1ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 C-10 0 -14 5 -14 14 C-14 20 -17 21 -17 24 C-17 27 -14 28 -14 34 C-14 43 -10 48 0 48"/>
+      <path d="M64 0 C74 0 78 5 78 14 C78 20 81 21 81 24 C81 27 78 28 78 34 C78 43 74 48 64 48"/>
+    </g>
+    <line x1="30" y1="24" x2="30" y2="24" stroke="#4ea1ff"/>
+    <g fill="#7fd8a4">
+      <circle cx="34" cy="24" r="3"/>
+    </g>
+    <path d="M-18 118 H198 L182 138 H-2 Z" fill="#083f8f" transform="translate(0,0)"/>
+  </g>
+
+  <!-- checklist card -->
+  <g transform="translate(330,58)">
+    <rect x="0" y="0" width="110" height="130" rx="6" fill="#ffffff" stroke="#a9c8f0" stroke-width="2"/>
+    <g fill="#0645ad">
+      <rect x="14" y="18" width="14" height="14" rx="3"/>
+      <rect x="14" y="46" width="14" height="14" rx="3"/>
+      <rect x="14" y="74" width="14" height="14" rx="3"/>
+    </g>
+    <g fill="none" stroke="#eaf3ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M17 25 L21 29 L27 21"/>
+      <path d="M17 53 L21 57 L27 49"/>
+      <path d="M17 81 L21 85 L27 77"/>
+    </g>
+    <rect x="36" y="21" width="60" height="7" rx="2" fill="#a9c8f0"/>
+    <rect x="36" y="49" width="60" height="7" rx="2" fill="#a9c8f0"/>
+    <rect x="36" y="77" width="46" height="7" rx="2" fill="#a9c8f0"/>
+    <rect x="14" y="102" width="14" height="14" rx="3" fill="none" stroke="#0645ad" stroke-width="2.5"/>
+    <rect x="36" y="105" width="60" height="7" rx="2" fill="#c9d6e6"/>
+  </g>
+
+  <text x="240" y="252" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#54595d">Designing, building and testing software solutions</text>
+</svg>
