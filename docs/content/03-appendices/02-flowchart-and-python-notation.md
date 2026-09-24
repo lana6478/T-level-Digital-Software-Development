@@ -42,9 +42,17 @@ A working list of the Python built-ins, keywords and library functions students 
 
 `index()` &middot; `append()` &middot; `insert()` &middot; `remove()` &middot; `count()` &middot; `pop()` &middot; `sort()` &middot; `in` &middot; `not in` &middot; `len()`
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Data Types, Variables and Data Structures](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ### Text files
 
 `open()` &middot; `write()` &middot; `close()` &middot; `read()` &middot; `readline()` &middot; `readlines()` &middot; `line.strip()` &middot; `line.split()`
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Operators, Input, Output and Program Flow](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ### Working with times and dates
 
@@ -82,6 +90,24 @@ Flowcharts are used throughout this qualification to express algorithms and proc
 | Parallelogram | Denotes input or output. |
 | Circle (connector) | Denotes a connection to part of a flowchart that can't easily be linked with an unbroken flow arrow. |
 | Arrow | Shows the logical flow of the program. |
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Computational Thinking and Algorithms](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) (PowerPoint, 11 slides)
+<!-- lesson-slide:end -->
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Computational Thinking and Algorithms (PowerPoint)](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) | 1.1, 1.2 | 11 |
+| [Data Types, Variables and Data Structures (PowerPoint)](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) | 2.1, 2.2, 2.3 | 10 |
+| [Operators, Input, Output and Program Flow (PowerPoint)](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) | 2.4, 2.5, 2.6 | 10 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

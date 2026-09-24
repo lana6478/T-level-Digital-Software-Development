@@ -4,6 +4,10 @@
 
 This is Content Area 5 of the Digital Software Development occupational specialism. It's a short but important content area: it covers why and how development teams collaborate, and the tools that support that collaboration, rather than any single technical skill.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Platforms, Version Control and Collaboration](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ## 5.1 Reasons for using collaborative techniques
 
 Working as a team on a shared project, rather than solo, brings several benefits:
@@ -38,6 +42,18 @@ On top of these general categories, students need to know about tools specific t
 - **Integrated development environments (IDEs)** - the software tools developers write and manage code in.
 
 *(Signposted competencies: E5, M10, D1, D3, D6.)*
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Platforms, Version Control and Collaboration (PowerPoint)](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) | 4.2, 5.1, 5.2 | 10 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

@@ -4,6 +4,10 @@
 
 This is Content Area 3 of the Digital Software Development occupational specialism: discovering, evaluating and applying reliable sources of knowledge - both for research generally, and for gathering feedback to evaluate a software solution.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Sources of Knowledge and Evaluating Solutions](../05-teaching-resources/slides/specialism/06-sources-of-knowledge-and-evaluation.pptx) (PowerPoint, 8 slides)
+<!-- lesson-slide:end -->
+
 ## 3.1 Evaluating the reliability of sources
 
 Students use a range of sources to find information: search engines to locate reliable websites, wikis, blogs, academic papers, conversations with peers, forums, code comments, and code repositories.
@@ -32,6 +36,18 @@ Students select and use a mix of qualitative and quantitative techniques to eval
 - Formal line management and appraisal procedures.
 
 *(E1, E4-E6, M2, M4, M6-M8, D1, D3-D6.)*
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Sources of Knowledge and Evaluating Solutions (PowerPoint)](../05-teaching-resources/slides/specialism/06-sources-of-knowledge-and-evaluation.pptx) | 3.1, 3.2 | 8 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

@@ -17,6 +17,10 @@ Students use critical thinking to pick the right design approach for a project, 
 
 *(Signposted competencies: E1-E5, M1-M8, M10, D1, D2, D4, D6.)*
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Software Design Approaches](../05-teaching-resources/slides/specialism/07-design-approaches.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 4.2 Platforms for source code and content management
 
 Students need to understand the features of development platforms at each stage: coding, repositories, branching, building, testing, deployment. This includes understanding:
@@ -26,6 +30,10 @@ Students need to understand the features of development platforms at each stage:
 - How to weigh up different platforms and make an informed choice based on: target audience, budget, technical features, staff and training, ease/speed of development, platform updates, security, reliability, performance, and compatibility.
 
 *(E1, E3, E5, M10, D1-D6.)*
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Platforms, Version Control and Collaboration](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ## 4.3 Designing a software solution
 
@@ -40,6 +48,27 @@ Students need to understand the features of development platforms at each stage:
 - **Network integration points**: which data is processed locally (e.g. user input in a game) vs. remotely (e.g. actions of all players in a multiplayer game), how data moves between local and remote sources (e.g. remote system calls), how local and remote systems connect, where the system boundaries sit, and which external systems to integrate with (e.g. a sports-data feed).
 
 *(E1-E5, M1-M8, M10, D1-D4, D6.)*
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [UX and UI Design](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) (PowerPoint, 9 slides)
+>
+> **Lesson slides for this section:** [Designing Data, Assets and Integration](../05-teaching-resources/slides/specialism/10-designing-data-assets-and-integration.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Software Design Approaches (PowerPoint)](../05-teaching-resources/slides/specialism/07-design-approaches.pptx) | 4.1 | 9 |
+| [Platforms, Version Control and Collaboration (PowerPoint)](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) | 4.2, 5.1, 5.2 | 10 |
+| [UX and UI Design (PowerPoint)](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) | 4.3 (UX and UI), 6.2 | 9 |
+| [Designing Data, Assets and Integration (PowerPoint)](../05-teaching-resources/slides/specialism/10-designing-data-assets-and-integration.pptx) | 4.3 (program, assets, platforms, databases, networks) | 10 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

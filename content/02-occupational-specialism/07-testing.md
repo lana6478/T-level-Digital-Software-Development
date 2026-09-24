@@ -4,6 +4,10 @@
 
 This is Content Area 7. It covers the types of testing a software solution needs, the techniques used to carry it out, and how to design good tests and test data.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Testing a Software Solution](../05-teaching-resources/slides/specialism/13-testing-a-software-solution.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 7.1 Functional, non-functional and front-end testing
 
 Students select and carry out the testing approach appropriate to the component being tested and the stage of the software development lifecycle it's at:
@@ -44,6 +48,18 @@ To test a piece of functionality properly, students need to define:
 After running the test, the test plan should be updated with the actual results, any changes made as a result, and any re-tests or regression testing carried out following those changes.
 
 *(Signposted competencies: E1, E4, E5, E6, M2, M4, M5, M6, M8, M10, D1, D2, D4, D6.)*
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Testing a Software Solution (PowerPoint)](../05-teaching-resources/slides/specialism/13-testing-a-software-solution.pptx) | 7.1, 7.2, 7.3 | 9 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

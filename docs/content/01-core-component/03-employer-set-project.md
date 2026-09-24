@@ -4,6 +4,10 @@
 
 The Employer Set Project (ESP) is a substantial, externally set and marked assessment worth 40% of the core assessments (100 marks), taken over a combined duration of up to 14 hours 30 minutes across multiple sessions. It draws synoptically on knowledge and skills from across the whole core component, responding to a realistic vocational brief. Internet access and AI tools are not permitted during the assessed sessions. This page summarises the current specimen assessment material - the actual live assessment keeps the same overall number/focus of tasks, but the order and detail of tasks can change each series.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [The Employer Set Project](../05-teaching-resources/slides/core/20-employer-set-project.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ## Pre-task: familiarisation with the industry context
 
 Not directly assessed and not taken under controlled conditions. Students investigate the context of the main brief (recent specimen material used the financial sector), working independently and in groups, to inform their responses to the assessed tasks.
@@ -44,6 +48,18 @@ Applying reflection and evaluation techniques to provide evidence the product me
 ## What's assessed
 
 The Employer Set Project's Assessment Objectives (see [Core scheme of assessment](04-core-scheme-of-assessment.md) for the full weighting breakdown) cover planning, applying knowledge/skills to develop software and fix defects, selecting relevant tools/techniques/resources, English/maths/digital skills, and realising and reviewing a project outcome.
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [The Employer Set Project (PowerPoint)](../05-teaching-resources/slides/core/20-employer-set-project.pptx) | Employer Set Project | 10 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

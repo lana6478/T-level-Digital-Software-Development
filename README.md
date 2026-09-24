@@ -11,6 +11,7 @@ Part of the [UTC Leeds T Level Study Guides](https://lana6478.github.io/utc-leed
 - **The core component** - the knowledge every student studies: Core Paper 1, Core Paper 2, and the Employer Set Project.
 - **The Digital Software Development specialism** - analysing problems, ethics and risk, design, implementation in at least two languages, testing, and change/maintenance/support.
 - **Grading, progression and careers**, and **appendices** covering competency frameworks, Python command reference and flowchart notation.
+- **Lesson slides for teachers** - 34 free, editable PowerPoint decks, one per subject, each with objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket. Download them from the **Teaching resources** section of each topic page, or from the [Lesson Slides](content/05-teaching-resources/01-lesson-slides.md) index.
 
 Every page is written as clear, plain-English revision notes, cross-referenced to the numbering used in the official specification.
 

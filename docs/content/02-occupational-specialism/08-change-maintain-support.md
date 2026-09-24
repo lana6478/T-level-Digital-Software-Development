@@ -4,6 +4,10 @@
 
 This is Content Area 8, the final technical content area of the specialism. It covers why software needs to keep changing after release, how to manage that change process, how to maintain code as part of a team, and how to support the people who actually use the software.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Change, Maintain and Support Software](../05-teaching-resources/slides/specialism/14-change-maintain-and-support.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ## 8.1 Why digital products change
 
 Business-driven development shapes the type of maintenance a product needs:
@@ -59,6 +63,18 @@ Students need to understand and apply good coding principles when developing, ad
 5. Document the lessons learned.
 
 *(Signposted competencies: E1, E4, E5, E6, M2, M4, M5, M6, M8, M10, D1, D2, D3, D4, D6.)*
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Change, Maintain and Support Software (PowerPoint)](../05-teaching-resources/slides/specialism/14-change-maintain-and-support.pptx) | 8.1 to 8.4 | 10 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

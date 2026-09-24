@@ -18,9 +18,17 @@ How digital systems support key organisational areas: sales & marketing (market 
 
 Potential risks: security breaches (confidentiality/integrity/availability loss), privacy breaches, regulatory/legal non-compliance, audience exclusion (bias, poor UX), emerging rival technologies, technical issues (reliance/failure, unfit for purpose). Potential impact: legal action, fines, reputational damage, losing a licence to practise, lost business.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [The Business Context](../05-teaching-resources/slides/core/11-the-business-context.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ### 5.4 Technical change management
 
 **Triggers for change** - internal (restructuring, expansion, downsizing, new strategic objectives) and external (political, economic, social, technological, legal, environmental). **How organisations respond**: new/amended policies, business processes, products/services, digital systems, training, or restructuring. **The change management process**: identifying the type of change; the **change advisory board's (CAB)** role (prioritise/review requests, approval stages, monitor progress, feedback); identifying changes using **SMARTER objectives**; identifying impact; allocating resources (budget, time, staffing, hardware/software); communicating risks/impact to stakeholders; configuring the new system; fully testing it; choosing an implementation method (parallel, phased, direct, pilot); documenting the process; rollback planning (backup methodology/location, recovery plan); identifying training needs; monitoring progress; version control software. **Feasibility factors**: benefits/drawbacks (savings, cost, process impact, reputation), risks (resistance, misuse, inadequate support/knowledge, disruption), and constraints (budget, time, resources).
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Technical Change Management](../05-teaching-resources/slides/core/12-technical-change-management.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ## Content area 6: Data
 
@@ -50,6 +58,10 @@ JSON, text file, CSV, UTF-8, ASCII, XML - definitions, purpose, when used, and t
 
 The role of metadata in describing/contextualising data. File-based and directory-based structures; hierarchy-based structures - definitions, purpose, when used, and their relationship to data transformation.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Data Fundamentals](../05-teaching-resources/slides/core/13-data-fundamentals.pptx) (PowerPoint, 11 slides)
+<!-- lesson-slide:end -->
+
 ### 6.7 Data dimensions and maintenance
 
 The **six Vs of Big Data**: volume, variety, variability, velocity, veracity, value - and their impact on gathering, storing, maintaining and processing data. **Data quality assurance methods**: validation, verification, reliability, consistency, integrity, redundancy. Factors affecting data maintenance: time, skills, cost.
@@ -74,6 +86,10 @@ Permissions (authorisation, privileges, access rights, rules) and access mechani
 
 Storing Big Data for analysis: data warehouse, data lake, data mart. Analysing data: data mining, reporting. Business intelligence use: financial planning/analysis, CRM (customer analytics, communications). Students must judge the relationship between data analysis tools and data scale.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Data Quality, Systems and Analysis](../05-teaching-resources/slides/core/14-data-quality-systems-and-analysis.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ## Content area 7: Digital environments
 
 ### 7.1 Hardware
@@ -84,9 +100,17 @@ Physical computer types: personal computers, mobile devices, servers, embedded d
 
 Operating system types: batch, multitasking, real-time, network, mobile - features and use. Common utilities: file management, defragmenters, file compression, package managers, protection software, backup software. Code development tools: IDEs (editing, debugging, screen design), compilers, interpreters. Common application software: word processors, spreadsheets, databases, email, project management software.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Hardware and Software](../05-teaching-resources/slides/core/15-hardware-and-software.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ### 7.3 Networks
 
 Benefits/drawbacks of connecting devices into networks. Network types by users/connection/coverage: PAN, LAN, MAN, WAN, VPN. Connectivity: wired (copper/ethernet, fibre-optic), wireless (access points). Topologies: star, mesh, tree, and logical vs. physical. Network models: client-server, thin client, peer-to-peer. Common components: server, client, router, switch, internet connection/backbone. The **seven-layer OSI model** (application, presentation, session, transport, network, data link, physical) and the **four-layer TCP/IP model** (application, transport, internet, network), each with their layer functions/protocols. Data packets: contents/structure, role of components, packet switching (packet loss causes), error handling (cyclic redundancy check). Common protocols: web (HTTP/HTTPS), mail (SMTP/POP/IMAP), routing (RIP/OSPF), application (FTP/SFTP/DHCP/DNS). Bandwidth and latency and their effect on performance.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Networks](../05-teaching-resources/slides/core/16-networks.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ### 7.4 Virtual environments
 
@@ -100,6 +124,10 @@ Private vs. public cloud. Benefits: portability, elasticity, fewer storage limit
 
 Benefits: increased security (storage/transfer, fewer vulnerabilities), increased reputation (brand protection, customer confidence), reduced downtime. Methods to improve resilience: software updates/patches, hardware replacement (rolling plans, secure disposal), data/system redundancy, device hardening (removing unneeded ports/apps/permissions/access), backup systems and recovery procedures (onsite, remote/offsite, cloud), hot/cold/warm sites, standard operating procedures (staff training, induction, new systems/policies).
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Virtual, Cloud and Resilient Environments](../05-teaching-resources/slides/core/17-virtual-cloud-and-resilient-environments.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## Content area 8: Security
 
 ### 8.1 Security risks
@@ -110,6 +138,10 @@ Confidential information types held by organisations: HR (salaries, personal det
 
 **Technical threats**: botnets, DoS/DDoS, malicious hacking (hacktivists/nation states/organised crime/individuals; password cracking/brute force; cross-site scripting; SQL injection; buffer overflow), malware (viruses, worms, key loggers, ransomware, spyware, remote access trojans), social engineering (phishing, spear phishing, smishing, vishing, pharming, watering hole attacks, USB baiting), DNS attacks/traffic redirection, insecure APIs, man-in-the-middle attacks, open/unsecured Wi-Fi - with prevention/mitigation for each. **Technical vulnerabilities**: inadequate security processes (weak encryption, poor password policy, no MFA), out-of-date hardware/software/firmware (legacy compatibility, zero-day bugs). **Human threats**: human error, malicious employees, disguised criminals, poor cyber hygiene - with prevention/mitigation. **Physical vulnerabilities**: lack/poor access control, location risks (shoulder surfing, environment, vandalism), poor system robustness, natural disasters - with prevention/mitigation. **Impact**: data loss/leaks, unauthorised access, data corruption, service disruption, unauthorised physical access.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Security Threats and Vulnerabilities](../05-teaching-resources/slides/core/18-security-threats-and-vulnerabilities.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ### 8.3 Threat mitigation
 
 **Techniques**: security settings (hardware/software), anti-malware, intrusion detection, encryption (hashing, symmetric, asymmetric), user access policies, staff vetting/training, software-based access control, device hardening, backups (full/incremental/differential, safe storage), software/firmware/driver updates, air gaps, API certification, VPNs, MFA, password managers, port scanning, penetration testing (ethical vs. unethical hacking) - purpose, process, benefits, drawbacks of each. **Internet security processes**: firewall configuration (inbound/outbound rules, traffic type, application, IP address), network segregation (virtual, physical, offline), network monitoring, port scanning.
@@ -117,6 +149,30 @@ Confidential information types held by organisations: HR (salaries, personal det
 ### 8.4 Interrelationship of components required for effective security
 
 The **CIA triad**: confidentiality (controlling access to keep data private), integrity (ensuring data isn't tampered with, supported by confidentiality), availability (ensuring data is available and useful, supported by integrity) - and how they interrelate. The **IAAA model**: identification (recognising an individual - knowledge-, possession-, or biometric-based), authentication (verifying the claimed identity - MFA, passwords/passphrases, biometrics), authorisation (ensuring authenticated users only access what they're permitted - role-based, access control lists), accountability (tracing actions back to a responsible user - audit logs, user activity) - techniques and their benefits/drawbacks.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Threat Mitigation, the CIA Triad and IAAA](../05-teaching-resources/slides/core/19-threat-mitigation-cia-and-iaaa.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [The Business Context (PowerPoint)](../05-teaching-resources/slides/core/11-the-business-context.pptx) | 5.1, 5.2, 5.3 | 10 |
+| [Technical Change Management (PowerPoint)](../05-teaching-resources/slides/core/12-technical-change-management.pptx) | 5.4 | 10 |
+| [Data Fundamentals (PowerPoint)](../05-teaching-resources/slides/core/13-data-fundamentals.pptx) | 6.1 to 6.6 | 11 |
+| [Data Quality, Systems and Analysis (PowerPoint)](../05-teaching-resources/slides/core/14-data-quality-systems-and-analysis.pptx) | 6.7 to 6.12 | 10 |
+| [Hardware and Software (PowerPoint)](../05-teaching-resources/slides/core/15-hardware-and-software.pptx) | 7.1, 7.2 | 9 |
+| [Networks (PowerPoint)](../05-teaching-resources/slides/core/16-networks.pptx) | 7.3 | 10 |
+| [Virtual, Cloud and Resilient Environments (PowerPoint)](../05-teaching-resources/slides/core/17-virtual-cloud-and-resilient-environments.pptx) | 7.4, 7.5, 7.6 | 9 |
+| [Security Threats and Vulnerabilities (PowerPoint)](../05-teaching-resources/slides/core/18-security-threats-and-vulnerabilities.pptx) | 8.1, 8.2 | 10 |
+| [Threat Mitigation, the CIA Triad and IAAA (PowerPoint)](../05-teaching-resources/slides/core/19-threat-mitigation-cia-and-iaaa.pptx) | 8.3, 8.4 | 10 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 
