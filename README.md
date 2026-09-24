@@ -25,6 +25,6 @@ If you'd rather read the plain files, everything also lives in this repository u
 
 No. This is an **independent, unofficial** study guide - not produced or endorsed by Pearson or the Institute for Apprenticeships and Technical Education (IfATE). Always check the [official specification (PDF)](https://qualifications.pearson.com/content/dam/pdf/TLevels/digital-software-development/2025/specification-and-sample-assessment-materials/digital-dsd-specification.pdf) and your course provider for anything assessment-critical.
 
-## Found a mistake, or want to help improve it?
+## Found a mistake?
 
-See the Developers page on the website (or [`content/04-help-and-about/02-developers.md`](content/04-help-and-about/02-developers.md)) for how to report an issue or contribute a fix.
+See the Developers page on the website (or [`content/04-help-and-about/02-developers.md`](content/04-help-and-about/02-developers.md)) for how to report a mistake or suggest a topic.

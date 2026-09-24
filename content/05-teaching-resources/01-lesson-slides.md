@@ -60,10 +60,6 @@ The eight content areas of the Digital Software Development specialism.
 | [Testing a Software Solution](slides/specialism/13-testing-a-software-solution.pptx) | 7.1, 7.2, 7.3 | [Testing a Software Solution](../02-occupational-specialism/07-testing.md) |
 | [Change, Maintain and Support Software](slides/specialism/14-change-maintain-and-support.pptx) | 8.1 to 8.4 | [Change, Maintain and Support Software](../02-occupational-specialism/08-change-maintain-support.md) |
 
-## Editing or adding decks
-
-The decks are generated from short content files in the repository's `tools/slides/decks/` folder. To change a deck, edit its content file and run `python3 tools/slides/build_slides.py` followed by `python3 tools/build_site.py`. See the [Developers page](../04-help-and-about/02-developers.md) for details.
-
 ## Related pages
 
 - [Core Component Overview](../01-core-component/00-overview.md)
