@@ -19,7 +19,7 @@ The SDLC is a structured set of stages a digital project moves through, from fir
 Students also need to understand the value the digital product brings to the organisation, and the role the SDLC plays in delivering that value. *(Signposted competencies: E1-E5, M2, M6-M10, D1-D4.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [The Software Development Lifecycle and Requirements](../05-teaching-resources/slides/specialism/01-sdlc-and-requirements.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [The Software Development Lifecycle and Requirements](../05-teaching-resources/slides/specialism/01-sdlc-and-requirements.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ## 1.2 Roles and responsibilities in the digital team
@@ -43,7 +43,7 @@ Students need to understand the key features of each methodology and be able to 
 - **User Centred Design (UCD)** - considers who the user is, what they want to achieve, how/when/why they interact with the product, and their overall experience; characterised as empathetic, iterative and interdisciplinary; follows an iterative cycle of understanding the context, specifying requirements, designing the solution, and assessing it against requirements. *(E5, D1, D3, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Team Roles and Project Methodologies](../05-teaching-resources/slides/specialism/02-team-roles-and-project-methodologies.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Team Roles and Project Methodologies](../05-teaching-resources/slides/specialism/02-team-roles-and-project-methodologies.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## 1.4 Functional and non-functional requirements
@@ -54,7 +54,7 @@ Students need to understand the key features of each methodology and be able to 
 - **Spike testing** - an early testing technique used to establish requirements and work out the scope of a problem and the solution needed. *(E1, E5, M2, M6-M8, D2, D3, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [The Software Development Lifecycle and Requirements](../05-teaching-resources/slides/specialism/01-sdlc-and-requirements.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [The Software Development Lifecycle and Requirements](../05-teaching-resources/slides/specialism/01-sdlc-and-requirements.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ## 1.5 Emerging technologies
@@ -66,7 +66,7 @@ Students investigate how emerging technologies are affecting software developmen
 To make sure they can actually deliver a solution, developers need to be able to: identify what further knowledge and skills they need, and judge whether they're currently able to complete the required work. They can then address gaps by: coaching from a professional or peer, learning on the job, self-study, using professional online forums, or signing up to online workshops. *(E5, E6, D1, D3, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Emerging Technologies and Developing Your Skills](../05-teaching-resources/slides/specialism/03-emerging-technologies-and-skills.pptx) (PowerPoint, 8 slides)
+> **Lesson slides for this section:** [Emerging Technologies and Developing Your Skills](../05-teaching-resources/slides/specialism/03-emerging-technologies-and-skills.pptx) (PowerPoint, 12 slides)
 <!-- lesson-slide:end -->
 
 <!-- teaching-resources:start -->
@@ -76,9 +76,9 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [The Software Development Lifecycle and Requirements (PowerPoint)](../05-teaching-resources/slides/specialism/01-sdlc-and-requirements.pptx) | 1.1, 1.4 | 10 |
-| [Team Roles and Project Methodologies (PowerPoint)](../05-teaching-resources/slides/specialism/02-team-roles-and-project-methodologies.pptx) | 1.2, 1.3 | 9 |
-| [Emerging Technologies and Developing Your Skills (PowerPoint)](../05-teaching-resources/slides/specialism/03-emerging-technologies-and-skills.pptx) | 1.5, 1.6 | 8 |
+| [The Software Development Lifecycle and Requirements (PowerPoint)](../05-teaching-resources/slides/specialism/01-sdlc-and-requirements.pptx) | 1.1, 1.4 | 16 |
+| [Team Roles and Project Methodologies (PowerPoint)](../05-teaching-resources/slides/specialism/02-team-roles-and-project-methodologies.pptx) | 1.2, 1.3 | 15 |
+| [Emerging Technologies and Developing Your Skills (PowerPoint)](../05-teaching-resources/slides/specialism/03-emerging-technologies-and-skills.pptx) | 1.5, 1.6 | 12 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

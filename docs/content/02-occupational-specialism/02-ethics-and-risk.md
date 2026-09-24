@@ -11,7 +11,7 @@ Students investigate and apply the legal and regulatory considerations relevant 
 Alongside the legal side, students consider the ethical implications of software development: code of conduct, professional practice, software licensing, and inclusion and diversity. *(Signposted competencies: E5, M4-M6, D1, D5, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Legal and Ethical Software Development](../05-teaching-resources/slides/specialism/04-legal-and-ethical-development.pptx) (PowerPoint, 8 slides)
+> **Lesson slides for this section:** [Legal and Ethical Software Development](../05-teaching-resources/slides/specialism/04-legal-and-ethical-development.pptx) (PowerPoint, 12 slides)
 <!-- lesson-slide:end -->
 
 ## 2.2 Identifying and managing risk
@@ -26,7 +26,7 @@ Students assess the risks of developing a software product in its specific conte
 Finally, students need to be able to make and justify software development decisions and recommendations, based on properly weighing risk against reward for the specific context and market they're working in. *(E5, M4-M6, D1, D5, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Identifying and Managing Risk](../05-teaching-resources/slides/specialism/05-identifying-and-managing-risk.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Identifying and Managing Risk](../05-teaching-resources/slides/specialism/05-identifying-and-managing-risk.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 <!-- teaching-resources:start -->
@@ -36,8 +36,8 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [Legal and Ethical Software Development (PowerPoint)](../05-teaching-resources/slides/specialism/04-legal-and-ethical-development.pptx) | 2.1 | 8 |
-| [Identifying and Managing Risk (PowerPoint)](../05-teaching-resources/slides/specialism/05-identifying-and-managing-risk.pptx) | 2.2 | 9 |
+| [Legal and Ethical Software Development (PowerPoint)](../05-teaching-resources/slides/specialism/04-legal-and-ethical-development.pptx) | 2.1 | 12 |
+| [Identifying and Managing Risk (PowerPoint)](../05-teaching-resources/slides/specialism/05-identifying-and-managing-risk.pptx) | 2.2 | 13 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

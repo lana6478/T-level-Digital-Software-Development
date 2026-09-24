@@ -18,7 +18,7 @@ Students use critical thinking to pick the right design approach for a project, 
 *(Signposted competencies: E1-E5, M1-M8, M10, D1, D2, D4, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Software Design Approaches](../05-teaching-resources/slides/specialism/07-design-approaches.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Software Design Approaches](../05-teaching-resources/slides/specialism/07-design-approaches.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## 4.2 Platforms for source code and content management
@@ -32,7 +32,7 @@ Students need to understand the features of development platforms at each stage:
 *(E1, E3, E5, M10, D1-D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Platforms, Version Control and Collaboration](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Platforms, Version Control and Collaboration](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ## 4.3 Designing a software solution
@@ -50,9 +50,9 @@ Students need to understand the features of development platforms at each stage:
 *(E1-E5, M1-M8, M10, D1-D4, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [UX and UI Design](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [UX and UI Design](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) (PowerPoint, 13 slides)
 >
-> **Lesson slides for this section:** [Designing Data, Assets and Integration](../05-teaching-resources/slides/specialism/10-designing-data-assets-and-integration.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Designing Data, Assets and Integration](../05-teaching-resources/slides/specialism/10-designing-data-assets-and-integration.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 <!-- teaching-resources:start -->
@@ -62,10 +62,10 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [Software Design Approaches (PowerPoint)](../05-teaching-resources/slides/specialism/07-design-approaches.pptx) | 4.1 | 9 |
-| [Platforms, Version Control and Collaboration (PowerPoint)](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) | 4.2, 5.1, 5.2 | 10 |
-| [UX and UI Design (PowerPoint)](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) | 4.3 (UX and UI), 6.2 | 9 |
-| [Designing Data, Assets and Integration (PowerPoint)](../05-teaching-resources/slides/specialism/10-designing-data-assets-and-integration.pptx) | 4.3 (program, assets, platforms, databases, networks) | 10 |
+| [Software Design Approaches (PowerPoint)](../05-teaching-resources/slides/specialism/07-design-approaches.pptx) | 4.1 | 15 |
+| [Platforms, Version Control and Collaboration (PowerPoint)](../05-teaching-resources/slides/specialism/08-platforms-version-control-and-collaboration.pptx) | 4.2, 5.1, 5.2 | 16 |
+| [UX and UI Design (PowerPoint)](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) | 4.3 (UX and UI), 6.2 | 13 |
+| [Designing Data, Assets and Integration (PowerPoint)](../05-teaching-resources/slides/specialism/10-designing-data-assets-and-integration.pptx) | 4.3 (program, assets, platforms, databases, networks) | 16 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

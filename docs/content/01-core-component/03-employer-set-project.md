@@ -5,7 +5,7 @@
 The Employer Set Project (ESP) is a substantial, externally set and marked assessment worth 40% of the core assessments (100 marks), taken over a combined duration of up to 14 hours 30 minutes across multiple sessions. It draws synoptically on knowledge and skills from across the whole core component, responding to a realistic vocational brief. Internet access and AI tools are not permitted during the assessed sessions. This page summarises the current specimen assessment material - the actual live assessment keeps the same overall number/focus of tasks, but the order and detail of tasks can change each series.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [The Employer Set Project](../05-teaching-resources/slides/core/20-employer-set-project.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [The Employer Set Project](../05-teaching-resources/slides/core/20-employer-set-project.pptx) (PowerPoint, 14 slides)
 <!-- lesson-slide:end -->
 
 ## Pre-task: familiarisation with the industry context
@@ -56,7 +56,7 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [The Employer Set Project (PowerPoint)](../05-teaching-resources/slides/core/20-employer-set-project.pptx) | Employer Set Project | 10 |
+| [The Employer Set Project (PowerPoint)](../05-teaching-resources/slides/core/20-employer-set-project.pptx) | Employer Set Project | 14 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

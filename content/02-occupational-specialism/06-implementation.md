@@ -59,7 +59,7 @@ Students choose at least two appropriate languages from this list to build front
 *(Signposted competencies: E5, M1-M8, M10, D1-D4, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Languages, CI/CD and Good Practice](../05-teaching-resources/slides/specialism/11-languages-ci-cd-and-good-practice.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Languages, CI/CD and Good Practice](../05-teaching-resources/slides/specialism/11-languages-ci-cd-and-good-practice.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ## 6.2 Selecting tools and features for a UX-driven user interface
@@ -73,7 +73,7 @@ Students choose at least two appropriate languages from this list to build front
 *(Signposted competencies: E5, M1, M4, M7, M8, M10, D1, D2, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [UX and UI Design](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [UX and UI Design](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## 6.3 Connecting code to data sources
@@ -103,7 +103,7 @@ Students select and use deployment methods appropriate to the project, such as:
 *(Signposted competencies: E5, M5, M6, M10, D1, D4, D6.)*
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Connecting to Data and Deploying Software](../05-teaching-resources/slides/specialism/12-data-connections-and-deployment.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Connecting to Data and Deploying Software](../05-teaching-resources/slides/specialism/12-data-connections-and-deployment.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 <!-- teaching-resources:start -->
@@ -113,9 +113,9 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [UX and UI Design (PowerPoint)](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) | 4.3 (UX and UI), 6.2 | 9 |
-| [Languages, CI/CD and Good Practice (PowerPoint)](../05-teaching-resources/slides/specialism/11-languages-ci-cd-and-good-practice.pptx) | 6.1 | 10 |
-| [Connecting to Data and Deploying Software (PowerPoint)](../05-teaching-resources/slides/specialism/12-data-connections-and-deployment.pptx) | 6.3, 6.4 | 9 |
+| [UX and UI Design (PowerPoint)](../05-teaching-resources/slides/specialism/09-ux-and-ui-design.pptx) | 4.3 (UX and UI), 6.2 | 13 |
+| [Languages, CI/CD and Good Practice (PowerPoint)](../05-teaching-resources/slides/specialism/11-languages-ci-cd-and-good-practice.pptx) | 6.1 | 16 |
+| [Connecting to Data and Deploying Software (PowerPoint)](../05-teaching-resources/slides/specialism/12-data-connections-and-deployment.pptx) | 6.3, 6.4 | 13 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

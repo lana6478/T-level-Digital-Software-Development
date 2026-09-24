@@ -43,7 +43,7 @@ A working list of the Python built-ins, keywords and library functions students 
 `index()` &middot; `append()` &middot; `insert()` &middot; `remove()` &middot; `count()` &middot; `pop()` &middot; `sort()` &middot; `in` &middot; `not in` &middot; `len()`
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Data Types, Variables and Data Structures](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Data Types, Variables and Data Structures](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ### Text files
@@ -51,7 +51,7 @@ A working list of the Python built-ins, keywords and library functions students 
 `open()` &middot; `write()` &middot; `close()` &middot; `read()` &middot; `readline()` &middot; `readlines()` &middot; `line.strip()` &middot; `line.split()`
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Operators, Input, Output and Program Flow](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Operators, Input, Output and Program Flow](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ### Working with times and dates
@@ -92,7 +92,7 @@ Flowcharts are used throughout this qualification to express algorithms and proc
 | Arrow | Shows the logical flow of the program. |
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Computational Thinking and Algorithms](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) (PowerPoint, 11 slides)
+> **Lesson slides for this section:** [Computational Thinking and Algorithms](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) (PowerPoint, 19 slides)
 <!-- lesson-slide:end -->
 
 <!-- teaching-resources:start -->
@@ -102,9 +102,9 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [Computational Thinking and Algorithms (PowerPoint)](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) | 1.1, 1.2 | 11 |
-| [Data Types, Variables and Data Structures (PowerPoint)](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) | 2.1, 2.2, 2.3 | 10 |
-| [Operators, Input, Output and Program Flow (PowerPoint)](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) | 2.4, 2.5, 2.6 | 10 |
+| [Computational Thinking and Algorithms (PowerPoint)](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) | 1.1, 1.2 | 19 |
+| [Data Types, Variables and Data Structures (PowerPoint)](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) | 2.1, 2.2, 2.3 | 16 |
+| [Operators, Input, Output and Program Flow (PowerPoint)](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) | 2.4, 2.5, 2.6 | 16 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

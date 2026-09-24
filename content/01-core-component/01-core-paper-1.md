@@ -22,7 +22,7 @@ What it is, when to use it, its benefits/drawbacks, and its four components, eac
 Algorithms and their purpose/characteristics; expressed as **flowcharts** (terminators, processes, sub-processes, decisions, inputs/outputs, arrows, labels), **written descriptions** (using hierarchical markers to show sequence), or **code** (see [Python and flowchart notation](../03-appendices/02-flowchart-and-python-notation.md)) - each with its own benefits and drawbacks. Actions that control the order of steps: **sequence**, **selection**, **iteration**. Students must be able to determine an algorithm's purpose and output, identify and correct errors in one, translate between notations, and design algorithms/solutions that use these actions.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Computational Thinking and Algorithms](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) (PowerPoint, 11 slides)
+> **Lesson slides for this section:** [Computational Thinking and Algorithms](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) (PowerPoint, 19 slides)
 <!-- lesson-slide:end -->
 
 ### 1.3 Strategies
@@ -30,7 +30,7 @@ Algorithms and their purpose/characteristics; expressed as **flowcharts** (termi
 Approaches to solving problems: **top-down**, **bottom-up**, **modularisation** (their purpose, when used, benefits/drawbacks). **Root cause analysis** approaches: five whys, failure mode and effects analysis (FMEA), event tree analysis (ETA), with follow-up actions (log, close, or escalate to a manager/specialist/third party). The high-level problem-solving strategy: define the problem, gather information, analyse the information, make a plan of action, implement a solution, review the solution. Students should be able to judge which strategy suits a given digital software development problem.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Problem-Solving Strategies](../05-teaching-resources/slides/core/02-problem-solving-strategies.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Problem-Solving Strategies](../05-teaching-resources/slides/core/02-problem-solving-strategies.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## Content area 2: Introduction to programming
@@ -50,7 +50,7 @@ Definitions and purpose of variables and constants; purpose of data type convers
 **List**, **array**, **dictionary** - purpose and when each is used. Students must be able to interpret, develop and debug code that uses data structures.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Data Types, Variables and Data Structures](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Data Types, Variables and Data Structures](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ### 2.4 Operators
@@ -66,7 +66,7 @@ Implementing input/output via keyboard, screen, or text file, including the text
 **Sequence**, **selection** (if / else if / else / match-case), and **loops** - count-controlled and condition-controlled, i.e. **iteration** via count-controlled `for` loops and condition-controlled `while` loops, with their benefits/drawbacks. Students must be able to interpret, develop and debug code using sequence, selection and iteration.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Operators, Input, Output and Program Flow](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Operators, Input, Output and Program Flow](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ### 2.7 Functions and procedures
@@ -78,7 +78,7 @@ Implementing input/output via keyboard, screen, or text file, including the text
 Presence, length, range, type, format and check-digit checks - definition and purpose. Students must be able to interpret, develop and debug code using validation.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Functions, Procedures and Validation](../05-teaching-resources/slides/core/05-functions-procedures-and-validation.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Functions, Procedures and Validation](../05-teaching-resources/slides/core/05-functions-procedures-and-validation.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ### 2.9 Design considerations and programming practices
@@ -90,7 +90,7 @@ Determining logical order of actions and operations (for accuracy and to avoid e
 Characteristics of robust code: handles unexpected inputs, handles unexpected terminations, produces specific/meaningful error messages. **Debugging** (locating and correcting errors) and its role in producing robust solutions. Students must be able to locate and correct errors in code.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Programming Practice and Robust Code](../05-teaching-resources/slides/core/06-programming-practice-and-robust-code.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Programming Practice and Robust Code](../05-teaching-resources/slides/core/06-programming-practice-and-robust-code.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ### 2.11 Common algorithms
@@ -98,7 +98,7 @@ Characteristics of robust code: handles unexpected inputs, handles unexpected te
 **Searching**: linear search, binary search. **Sorting**: bubble sort, insertion sort, merge sort. Students need the benefits/drawbacks of each, metrics to compare algorithms (memory use, execution time, number of comparisons), and best/worst/average case reasoning (Big O not required), then must judge which searching/sorting algorithm suits a given situation.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Searching and Sorting Algorithms](../05-teaching-resources/slides/core/07-searching-and-sorting-algorithms.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Searching and Sorting Algorithms](../05-teaching-resources/slides/core/07-searching-and-sorting-algorithms.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ### 2.12 Testing
@@ -106,7 +106,7 @@ Characteristics of robust code: handles unexpected inputs, handles unexpected te
 Why individual components (software, hardware, data, interfaces, the resulting service) are tested before final integration. **Testing methods**: concept, unit, boundary, integration, performance, system, acceptance, usability, regression, load/stress, closed box, open box - purpose, benefits, drawbacks, when used. **Automation**: macros, scripts, functional testing tools. **Test data types**: valid, invalid, boundary, erroneous. A **test plan**'s structure: identify tests, describe their purpose, identify test data, describe expected results, record actual results.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Testing](../05-teaching-resources/slides/core/08-testing.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Testing](../05-teaching-resources/slides/core/08-testing.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## Content area 3: Emerging issues
@@ -120,7 +120,7 @@ How increased reliance on digital systems affects **organisational culture** (co
 Impact of developments in storage media, processing (quantum computing), the Internet of Things (edge computing; industrial/smart city/domestic use), AI (generative AI, machine learning), extended reality (AR/VR), open source software, blockchain, environmental factors (rare metals, energy to produce systems, disposal impact), and autonomous machines (self-driving cars, robotic assembly lines) - on organisations, individuals and society. Students must judge the interrelationships and impacts of these technologies in a digital software development context.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Emerging Issues and Technologies](../05-teaching-resources/slides/core/09-emerging-issues-and-technologies.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Emerging Issues and Technologies](../05-teaching-resources/slides/core/09-emerging-issues-and-technologies.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## Content area 4: Legislation and regulatory requirements
@@ -146,7 +146,7 @@ Students must judge how digital software development interacts with this legisla
 Students must judge how guidelines interact with digital software development and their impact on organisations, society and individuals.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Legislation and Guidelines](../05-teaching-resources/slides/core/10-legislation-and-guidelines.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Legislation and Guidelines](../05-teaching-resources/slides/core/10-legislation-and-guidelines.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 <!-- teaching-resources:start -->
@@ -156,16 +156,16 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [Computational Thinking and Algorithms (PowerPoint)](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) | 1.1, 1.2 | 11 |
-| [Problem-Solving Strategies (PowerPoint)](../05-teaching-resources/slides/core/02-problem-solving-strategies.pptx) | 1.3 | 9 |
-| [Data Types, Variables and Data Structures (PowerPoint)](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) | 2.1, 2.2, 2.3 | 10 |
-| [Operators, Input, Output and Program Flow (PowerPoint)](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) | 2.4, 2.5, 2.6 | 10 |
-| [Functions, Procedures and Validation (PowerPoint)](../05-teaching-resources/slides/core/05-functions-procedures-and-validation.pptx) | 2.7, 2.8 | 9 |
-| [Programming Practice and Robust Code (PowerPoint)](../05-teaching-resources/slides/core/06-programming-practice-and-robust-code.pptx) | 2.9, 2.10 | 9 |
-| [Searching and Sorting Algorithms (PowerPoint)](../05-teaching-resources/slides/core/07-searching-and-sorting-algorithms.pptx) | 2.11 | 9 |
-| [Testing (PowerPoint)](../05-teaching-resources/slides/core/08-testing.pptx) | 2.12 | 9 |
-| [Emerging Issues and Technologies (PowerPoint)](../05-teaching-resources/slides/core/09-emerging-issues-and-technologies.pptx) | 3.1, 3.2 | 9 |
-| [Legislation and Guidelines (PowerPoint)](../05-teaching-resources/slides/core/10-legislation-and-guidelines.pptx) | 4.1, 4.2 | 9 |
+| [Computational Thinking and Algorithms (PowerPoint)](../05-teaching-resources/slides/core/01-computational-thinking-and-algorithms.pptx) | 1.1, 1.2 | 19 |
+| [Problem-Solving Strategies (PowerPoint)](../05-teaching-resources/slides/core/02-problem-solving-strategies.pptx) | 1.3 | 13 |
+| [Data Types, Variables and Data Structures (PowerPoint)](../05-teaching-resources/slides/core/03-data-types-variables-and-data-structures.pptx) | 2.1, 2.2, 2.3 | 16 |
+| [Operators, Input, Output and Program Flow (PowerPoint)](../05-teaching-resources/slides/core/04-operators-input-output-and-program-flow.pptx) | 2.4, 2.5, 2.6 | 16 |
+| [Functions, Procedures and Validation (PowerPoint)](../05-teaching-resources/slides/core/05-functions-procedures-and-validation.pptx) | 2.7, 2.8 | 15 |
+| [Programming Practice and Robust Code (PowerPoint)](../05-teaching-resources/slides/core/06-programming-practice-and-robust-code.pptx) | 2.9, 2.10 | 15 |
+| [Searching and Sorting Algorithms (PowerPoint)](../05-teaching-resources/slides/core/07-searching-and-sorting-algorithms.pptx) | 2.11 | 15 |
+| [Testing (PowerPoint)](../05-teaching-resources/slides/core/08-testing.pptx) | 2.12 | 15 |
+| [Emerging Issues and Technologies (PowerPoint)](../05-teaching-resources/slides/core/09-emerging-issues-and-technologies.pptx) | 3.1, 3.2 | 15 |
+| [Legislation and Guidelines (PowerPoint)](../05-teaching-resources/slides/core/10-legislation-and-guidelines.pptx) | 4.1, 4.2 | 15 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

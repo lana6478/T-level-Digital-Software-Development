@@ -5,7 +5,7 @@
 This is Content Area 7. It covers the types of testing a software solution needs, the techniques used to carry it out, and how to design good tests and test data.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Testing a Software Solution](../05-teaching-resources/slides/specialism/13-testing-a-software-solution.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Testing a Software Solution](../05-teaching-resources/slides/specialism/13-testing-a-software-solution.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## 7.1 Functional, non-functional and front-end testing
@@ -56,7 +56,7 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [Testing a Software Solution (PowerPoint)](../05-teaching-resources/slides/specialism/13-testing-a-software-solution.pptx) | 7.1, 7.2, 7.3 | 9 |
+| [Testing a Software Solution (PowerPoint)](../05-teaching-resources/slides/specialism/13-testing-a-software-solution.pptx) | 7.1, 7.2, 7.3 | 15 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->
